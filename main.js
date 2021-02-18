@@ -13,5 +13,5 @@ function saveScore()
 
 
 function nextPage() {
-open("https://bellam403.github.io/Save-Score-2/")
+window.location.replace("https://bellam403.github.io/Save-Score-2/");
 }
