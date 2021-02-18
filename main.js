@@ -13,5 +13,5 @@ function saveScore()
 
 
 function nextPage() {
-window.location = "activity_2.html";
+window.location = "https://bellam403.github.io/Save-Score-2/";
 }
